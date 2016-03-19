@@ -1,3 +1,3 @@
 # SungOnZip
 
-hi everyone
+### 문제해결기법 2016_1_심정섭교수님
